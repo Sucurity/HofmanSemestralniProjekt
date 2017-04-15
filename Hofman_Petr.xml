@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Hofman_Petr.xsl"?>
+<Konfigurace_objektu_v_Active_Directory xmlns:xsi="http://www.w3.org/2001/XMLSchema"  xsi:noNamespaceSchemaLocation="Hofman_Petr.xsd">
+
+
+
+    <!--Konfigurace objektů v Active Directory-->
+    <Vytvoreni oblast="Ceska_Republika">
+        <Typ_objektu>
+            <firma>Country Trade a.s.</firma>
+            <kategorie>Finanční oddělení</kategorie>
+            <id>1</id>
+            <popis>Pridani objektu do domeny</popis>
+        </Typ_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Bezny uzivatel</kategorie>
+                <id>1</id>
+                <jmeno titul="BC.">Franta Novak</jmeno>
+                <Platnost_pristupu_od>2.4.2017</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2017</Platnost_pristupu_do>
+                <post_ve_firme>Účetní</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Administrátor</kategorie>
+                <id>2</id>
+                <jmeno titul="ING.">John Patterson</jmeno>
+                <Platnost_pristupu_od>2.4.2015</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2099</Platnost_pristupu_do>
+                <post_ve_firme>Ředitel</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Administrátor</kategorie>
+                <id>3</id>
+                <jmeno titul="ING.">Tomáš Kop</jmeno>
+                <Platnost_pristupu_od>2.4.2015</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2099</Platnost_pristupu_do>
+                <post_ve_firme>Vývojář</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Typ_objektu>
+            <firma>Country Trade a.s.</firma>
+            <kategorie>Marketingové oddělení</kategorie>
+            <id>2</id>
+            <popis>Pridani objektu do domeny</popis>
+        </Typ_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Bezny uzivatel</kategorie>
+                <id>4</id>
+                <jmeno titul="BC.">Martin Kalina</jmeno>
+                <Platnost_pristupu_od>24.4.2017</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2018</Platnost_pristupu_do>
+                <post_ve_firme>Grafik</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Administrátor</kategorie>
+                <id>5</id>
+                <jmeno titul="BC.">Michal Velký</jmeno>
+                <Platnost_pristupu_od>24.4.2015</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2020</Platnost_pristupu_do>
+                <post_ve_firme>Vedoucí</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Omezený přístup</kategorie>
+                <id>6</id>
+                <jmeno titul="">Tomáš Čáp</jmeno>
+                <Platnost_pristupu_od>24.6.2015</Platnost_pristupu_od>
+                <Platnost_pristupu_do>24.8.2015</Platnost_pristupu_do>
+                <post_ve_firme>Brigádník</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Typ_objektu>
+            <firma>Country Trade a.s.</firma>
+            <kategorie>Náborové oddělení</kategorie>
+            <id>3</id>
+            <popis>Pridani objektu do domeny</popis>
+        </Typ_objektu>
+        
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Běžný uživatel</kategorie>
+                <id>7</id>
+                <jmeno>Franta Zakoupil</jmeno>
+                <Platnost_pristupu_od>2.4.2017</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2018</Platnost_pristupu_do>
+                <post_ve_firme>Recepční</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Administrátor</kategorie>
+                <id>8</id>
+                <jmeno titul="DOC.">Tereza Roznožilová</jmeno>
+                <Platnost_pristupu_od>2.4.2016</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2025</Platnost_pristupu_do>
+                <post_ve_firme>Hlavní náborář</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Administrátor</kategorie>
+                <id>9</id>
+                <jmeno titul="MGR.">Michaela Chlupatá</jmeno>
+                <Platnost_pristupu_od>2.4.2015</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2020</Platnost_pristupu_do>
+                <post_ve_firme>Náborář</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Typ_objektu>
+            <firma>Country Trade a.s.</firma>
+            <kategorie>Bankovní oddělení</kategorie>
+            <id>4</id>
+            <popis>Pridani objektu do domeny</popis>
+        </Typ_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Bezny uzivatel</kategorie>
+                <id>10</id>
+                <jmeno titul="BC.">Lucka Macíková</jmeno>
+                <Platnost_pristupu_od>2.4.2017</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2018</Platnost_pristupu_do>
+                <post_ve_firme>Sekretářka</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Administrátor</kategorie>
+                <id>11</id>
+                <jmeno titul="ING.">Nikola Tlustá</jmeno>
+                <Platnost_pristupu_od>2.4.2015</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2099</Platnost_pristupu_do>
+                <post_ve_firme>Bankéř</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+        <Pridani_objektu>
+            <objekt>   
+                <kategorie>Administrátor</kategorie>
+                <id>12</id>
+                <jmeno titul="BC.">Tomáš Nos</jmeno>
+                <Platnost_pristupu_od>2.4.2015</Platnost_pristupu_od>
+                <Platnost_pristupu_do>31.12.2020</Platnost_pristupu_do>
+                <post_ve_firme>Poradce</post_ve_firme>
+            </objekt>
+        </Pridani_objektu>
+    </Vytvoreni>
+</Konfigurace_objektu_v_Active_Directory>
